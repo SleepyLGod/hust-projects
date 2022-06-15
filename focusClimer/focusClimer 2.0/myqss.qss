@@ -1,0 +1,129 @@
+QComboBox {
+    border: 2px solid gray;
+    border-radius: 8px;
+    padding: 1px 2px;
+}
+
+QComboBox::drop-down {
+    subcontrol-origin: padding;
+    subcontrol-position: top right;
+    width: 20px;
+
+    border-left-width: 2px;
+    border-left-color: darkgray;
+    border-left-style: solid;
+    /* just a single line */
+    border-top-right-radius: 8px;
+    /* same radius as the QComboBox */
+    border-bottom-right-radius: 8px;
+}
+
+QComboBox::down-arrow {
+    background-image: url(":/image/down_arrow2");
+}
+
+QPushButton {
+    background-color: #ffffff;
+    border: 3px solid #dcdfe6;
+    padding: 10px;
+    border-radius: 18px;
+    border-color: rgb(220, 213, 247);
+}
+
+QPushButton:hover {
+    background-color: #ecf5ff;
+    color: #409eff;
+}
+
+QPushButton:checked,
+QPushButton:pressed {
+    border: 1px solid #3a8ee6;
+    color: #409eff;
+}
+
+QRadioButton::indicator {
+    /*选择框部分*/
+    width: 13px;
+    height: 13px;
+    color: black;
+}
+
+QRadioButton::indicator:unchecked:pressed {
+    width: 13px;
+    height: 13px;
+    color: black;
+}
+
+QRadioButton::indicator:unchecked:hover {
+    width: 16px;
+    height: 16px;
+}
+
+QRadioButton::indicator:checked:hover {
+    width: 16px;
+    height: 16px;
+}
+
+QGroupBox {
+    border: 2px solid rgb(242, 236, 255);
+    border-radius: 15px;
+    margin-top: 11px;
+}
+
+QGroupBox::title {
+    subcontrol-origin: margin;
+    subcontrol-position: top left;
+    padding-top: 5;
+    padding-left: 5;
+}
+
+/*
+tabelwidget*/
+QTableWidget {
+    border: 1px solid #DEF1F5;
+    alternate-background-color: #C6FCEC;
+    /*交错颜色*/
+}
+
+/*选中item*/
+QTableWidget::item:selected {
+    color: #7F6EFF;
+    background: #EFF4FF;
+}
+
+/*
+悬浮item*/
+QTableWidget::item:hover {
+    background: #DEF2F2;
+}
+
+/*表头*/
+QHeaderView::section {
+    text-align: center;
+    margin: 0;
+    border: 0 solid grey;
+    border-left-width: 0;
+}
+
+/*表右侧的滑条*/
+QScrollBar:vertical {
+    background: #B4DAE1;
+    padding: 0;
+    border-radius: 5px;
+    max-width: 12px;
+}
+
+/*滑块*/
+QScrollBar::handle:vertical {
+    background: #BEDCF6;
+    border-radius: 5px;
+}
+
+/*页面下移的按钮*/
+QScrollBar::add-line:vertical {
+    background: none;
+}
+/*页面上移的按钮*/
+QScrollBar::sub-line:vertical {
+    background: none;
+}

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="com.example.milkorder_backend.mapper.DrinkMapper">
+
+    <select id="getDrinkByName" resultType="com.example.milkorder_backend.model.entity.Drink">
+        select *
+        from drink
+        where name = #{name}
+    </select>
+
+    <select id="selectAllDrink" resultType="com.example.milkorder_backend.model.entity.Drink">
+        select * from drink
+    </select>
+
+    <select id="selectAllDrinkOfCla" resultType="com.example.milkorder_backend.model.entity.Drink">
+        select *
+        from drink
+        where cla = #{cla}
+    </select>
+
+</mapper>

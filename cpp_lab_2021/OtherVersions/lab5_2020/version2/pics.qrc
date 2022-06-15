@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>map.jpg</file>
+        <file>site.png</file>
+        <file>red.png</file>
+        <file>icon.png</file>
+        <file>way.png</file>
+        <file>clear.png</file>
+        <file>icon.jpg</file>
+        <file>map.bmp</file>
+    </qresource>
+</RCC>

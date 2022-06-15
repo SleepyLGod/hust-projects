@@ -1,0 +1,7 @@
+project(MyGame)
+set(CMAKE_CXX_COMPILER "g++")
+include_directories(${PROJECT_SOURCE_DIR}/include)
+aux_source_directory(./src SrcFiles)
+set(EXECUTABLE_OUTPUT_PATH  ${PROJECT_SOURCE_DIR}/bin)
+include_directories(([AFTER|BEFORE] [SYSTEM] cnf.h DPLL.h Sudoku.h))
+add_executable(My_Game ./src/main.cpp ./src/DPLL.cpp ./src/cnf.cpp ./src/Sudoku.cpp)

@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/hustMap.bmp</file>
+        <file>res/lines.txt</file>
+        <file>res/Organization.txt</file>
+        <file>res/stops.txt</file>
+        <file>myQss.qss</file>
+        <file>image/add.png</file>
+        <file>image/connect2.png</file>
+        <file>image/file.png</file>
+        <file>image/hust.png</file>
+        <file>image/process1.png</file>
+        <file>image/settings.png</file>
+        <file>image/stop.png</file>
+    </qresource>
+</RCC>

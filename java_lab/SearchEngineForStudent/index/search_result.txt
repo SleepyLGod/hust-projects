@@ -1,0 +1,36 @@
+
+-----------------------------------------
+docId: 0;
+docPath: D:\GitRepository_lhd\Java_lab_1\SearchEngineForStudent\text\text_search_sort\1.txt;
+content: The novel coronavirus death rate According to Government health authority of England Government, most of the coronavirus cases are in England Government;
+score: -3.0;
+government	----->	{
+ docId: 0;
+ freq: 3;
+ positions: [7, 12, 21];
+}
+
+
+-----------------------------------------
+docId: 2;
+docPath: D:\GitRepository_lhd\Java_lab_1\SearchEngineForStudent\text\text_search_sort\3.txt;
+content: The England Government want to establish the country as a visitor destination for Chinese Government people as part of  new strategy to boost trade rate;
+score: -2.0;
+government	----->	{
+ docId: 2;
+ freq: 2;
+ positions: [2, 14];
+}
+
+
+-----------------------------------------
+docId: 1;
+docPath: D:\GitRepository_lhd\Java_lab_1\SearchEngineForStudent\text\text_search_sort\2.txt;
+content: The release of the new James Bond film coronavirus death continue to spread England Government;
+score: -1.0;
+government	----->	{
+ docId: 1;
+ freq: 1;
+ positions: [14];
+}
+

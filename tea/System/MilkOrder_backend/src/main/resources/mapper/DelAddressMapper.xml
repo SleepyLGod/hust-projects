@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="com.example.milkorder_backend.mapper.DelAddressMapper">
+
+    <select id="getAllAddress" resultType="com.example.milkorder_backend.model.entity.DelAddress">
+        select * from del_address where user_id = #{userId} ;
+    </select>
+
+    <update id="updateAddress">
+        UPDATE del_address SET linkman=#{linkman}, is_male=#{isMale}, mobile=#{mobile}, address=#{address}, detail = #{detail}
+        WHERE id=#{id};
+    </update>
+
+</mapper>

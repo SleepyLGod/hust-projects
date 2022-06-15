@@ -1,0 +1,37 @@
+// Available variables which can be used inside of strings.
+// ${workspaceRoot}: the root folder of the team        
+// ${file}: the current opened file                     
+// ${fileBasename}: the current opened file's basename 
+// ${fileDirname}: the current opened file's dirname    
+// ${fileExtname}: the current opened file's extension  
+// ${cwd}: the current working directory of the spawned process
+
+{
+	"version": "2.0.0",
+	"tasks": [
+	  {
+		"type": "shell",
+		"label": "g++ build active file",
+		"command": "/usr/bin/g++",
+		"args": [
+            "-g",
+            "${file}",
+            "${workspaceFolder}\\src\\cnf.c",
+            "${workspaceFolder}\\src\\DPLL.c",
+            "${workspaceFolder}\\src\\Sudoku.c",
+            "${workspaceFolder}\\src\\main.c",
+            "-I",
+            "--std=c11",
+            "-o", 
+            "${fileDirname}/${fileBasenameNoExtension}"],
+		"options": {
+		  "cwd": "/usr/bin"
+		},
+		"problemMatcher": ["$gcc"],
+		"group": {
+		  "kind": "build",
+		  "isDefault": true
+		}
+	  }
+	]
+}
