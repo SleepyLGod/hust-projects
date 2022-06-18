@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/new/src">
+        <file>image/1.png</file>
+        <file>image/2927.png_300.png</file>
+        <file>image/account.png</file>
+        <file>image/add.png</file>
+        <file>image/audio.png</file>
+        <file>image/gear2.png</file>
+        <file>image/hust.png</file>
+        <file>image/pause.png</file>
+        <file>image/settings.png</file>
+        <file>image/start.png</file>
+        <file>image/stop.png</file>
+        <file>image/stop2.png</file>
+        <file>image/connect.png</file>
+    </qresource>
+</RCC>

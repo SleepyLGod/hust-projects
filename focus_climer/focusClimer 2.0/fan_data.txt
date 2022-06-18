@@ -1,0 +1,7 @@
+Connect successfully!
+right	1	0	1750	
+down	1	0	1750	
+left	1	0	1750	
+counterclockwise	0	1	1750	
+clockwise	0	1	1750	
+Normal The polish mission is stopped

@@ -1,0 +1,40 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "name": "(gdb) Launch",
+        "type": "cppdbg",
+        "request": "launch",
+        "program": "${workspaceFolder}/bin/My_Game.exe",
+        "args": [],
+        "stopAtEntry": false,
+        "cwd": "${workspaceFolder}",
+        "externalConsole": true,
+        "environment": [],
+        "MIMode": "gdb",
+        "miDebuggerPath": "D:\\mingw64\\bin\\gdb.exe",
+        //"preLaunchTask": "gcc",
+        "setupCommands": [
+          {
+            "description": "Enable pretty-printing for gdb",
+            "text": "-enable-pretty-printing",
+            "ignoreFailures": false
+          }
+        ]
+      },
+      {
+        "name": "C/C++ Runner: Debug Session",
+        "type": "cppdbg",
+        "request": "launch",
+        "args": [],
+        "stopAtEntry": false,
+        "cwd": "d:\\GitRepository_lhd\\Sudoku_Game",
+        "environment": [],
+        "program": "d:\\GitRepository_lhd\\Sudoku_Game\\build\\Debug\\outDebug",
+        "internalConsoleOptions": "openOnSessionStart",
+        "MIMode": "gdb",
+        "miDebuggerPath": "D:\\mingw64\\bin\\gdb.exe",
+        "externalConsole": false
+      }
+    ]
+  }
