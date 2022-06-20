@@ -12,4 +12,4 @@
 * [**(Hust) Search Engine Based on Inverted Index**(with java lab and report)](https://github.com/SleepyLGod/hust-projects/tree/main/java_lab_2022)
 * [**(Hust) Assembly Language Labs**(with lab codes and reports)](https://github.com/SleepyLGod/hust-projects/tree/main/assembly_language_lab_2022)
 * [**(Hust) Big Data Reduce Labs**(with ref books and reports)](https://github.com/SleepyLGod/hust-projects/tree/main/big_data_reduce_lab_2021)
-* [**(Hust) CSAPP Labs (firsr three labs)**(with lab codes and reports)]()
+* [**(Hust) CSAPP Labs (firsr three labs)**(with lab codes and reports)](https://github.com/SleepyLGod/hust-projects/tree/main/csapp_lab_2022)
