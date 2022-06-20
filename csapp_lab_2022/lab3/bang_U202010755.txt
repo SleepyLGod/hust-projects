@@ -1,0 +1,10 @@
+/* bang() located at:   0x08048d05 */
+/* the machine code of func_bang.s: 16 bytes */
+c7 05 18 c2 04 08 04 21 c6 73 68 05 8d 04 08 c3 
+/* other 28 bytes */
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 
+/* the address of eax */
+18 36 68 55
+/* '\n' */
+0a
