@@ -1,6 +1,6 @@
-## **My Boring Homework😅 & Some Easy Projects😂** ([简体中文版本](https://github.com/SleepyLGod/hust-projects/blob/main/Readme_ch.md))
+## **My Boring Homework😅 & Some Easy Projects😂** ([**简体中文版本**](https://github.com/SleepyLGod/hust-projects/blob/main/Readme_ch.md))
 
-> **project ~~Highlights~~ records** ***&*** **`HUST-CS`experiment and course design** 😳😡🤢🤮😅😓👏😀
+> **Project ~~Highlights~~ records** ***&*** **`HUST-CS`experiments and course designs.** 😳😡🤢🤮😅😓👏😀
 
 * [**Challenge Cup PC GUI**](https://github.com/SleepyLGod/hust-projects/tree/main/focus_climer)
 * [**(Hust) Sudoku Game**（DS course design with report）](https://github.com/SleepyLGod/hust-projects/tree/main/sudoku_game_2021)
