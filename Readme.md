@@ -1,4 +1,4 @@
-## **My Boring Homework😅 & Some Easy Projects😂**
+## **My Boring Homework😅 & Some Easy Projects😂** ([简体中文版本](https://github.com/SleepyLGod/hust-projects/blob/main/Readme_ch.md))
 
 > **project ~~Highlights~~ records** ***&*** **`HUST-CS`experiment and course design** 😳😡🤢🤮😅😓👏😀
 
