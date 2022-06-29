@@ -1,4 +1,4 @@
-## 无聊的作业和小项目😅  **([👉Back to the English Version](https://github.com/SleepyLGod/hust-projects/Readme.md))**
+## 无聊的作业和小项目😅  **([👉Back to the English Version](https://github.com/SleepyLGod/hust-projects/blob/main/Readme.md))**
 > **华中科技大学计算机科学与技术学院2020级** 实验 + 课设 + 作业 + 一些小项目（**源码 + 报告**）😳😡🤢🤮😅😓👏😀
 > 
 > **P.S.**: 都有比较好看的分数
