@@ -13,3 +13,4 @@
 * [**(Hust) Assembly Language Labs**(with lab codes and reports)](https://github.com/SleepyLGod/hust-projects/tree/main/assembly_language_lab_2022)
 * [**(Hust) Big Data Reduce Labs**(with ref books and reports)](https://github.com/SleepyLGod/hust-projects/tree/main/big_data_reduce_lab_2021)
 * [**(Hust) CSAPP Labs (firsr three labs)**(with lab codes and reports)](https://github.com/SleepyLGod/hust-projects/tree/main/csapp_lab_2022)
+* [**(Hust) Machine Learning Labs**(with lab codes and reports)](https://github.com/SleepyLGod/hust-projects/tree/main/)
