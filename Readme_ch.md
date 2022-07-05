@@ -14,4 +14,4 @@
 + [**《汇编语言设计》 实验**](https://github.com/SleepyLGod/hust-projects/tree/main/assembly_language_lab_2022)
 + [**《大数据处理》 实验**](https://github.com/SleepyLGod/hust-projects/tree/main/big_data_reduce_lab_2021)
 + [**《计算机系统基础》 实验**](https://github.com/SleepyLGod/hust-projects/tree/main/csapp_lab_2022)
-+ [**《机器学习》 实验 & 课程设计**]()
++ [**《机器学习》 实验 & 课程设计**](https://github.com/SleepyLGod/hust-projects/tree/main/machine_learning_lab_2022)
