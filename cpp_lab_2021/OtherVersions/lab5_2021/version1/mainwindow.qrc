@@ -1,8 +1,0 @@
-<RCC>
-    <qresource prefix="/">
-        <file>source/hustMap.bmp</file>
-        <file>source/lines.txt</file>
-        <file>source/Organization.txt</file>
-        <file>source/stops.txt</file>
-    </qresource>
-</RCC>
