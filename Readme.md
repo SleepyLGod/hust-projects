@@ -14,3 +14,4 @@
 * [**(Hust) Big Data Reduce Labs**(with ref books and reports)](./big_data_reduce_lab_2021)
 * [**(Hust) CSAPP Labs (firsr three labs)**(with lab codes and reports)](./csapp_lab_2022)
 * [**(Hust) Machine Learning Labs**(with lab codes and reports)](./machine_learning_lab_2022)
+* [**(Hust) Computer Composition Principles Course Design**(with lab codes and reports)](./computer_composition_principles_lab_2022)
