@@ -15,3 +15,4 @@
 + [**《大数据处理》 实验**](./big_data_reduce_lab_2021)
 + [**《计算机系统基础》 实验**](./csapp_lab_2022)
 + [**《机器学习》 实验 & 课程设计**](./machine_learning_lab_2022)
++ [**《计算机组成原理》 课程设计**](./computer_composition_principles_lab_2022)
