@@ -16,4 +16,4 @@
 + [**《计算机系统基础》 实验**](./csapp_lab_2022)
 + [**《机器学习》 实验 & 课程设计**](./machine_learning_lab_2022)
 + [**《计算机组成原理》 课程设计**](./computer_composition_principles_lab_2022)
-+ [**《计算机通信与网络》实验**(with lab codes and reports)](https://github.com/SleepyLGod/network-labs)
++ [**《计算机通信与网络》实验**](https://github.com/SleepyLGod/network-labs)
