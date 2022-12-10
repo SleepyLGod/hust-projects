@@ -1,0 +1,1 @@
+mysqldump -h127.0.0.1 -uroot --flush-logs --databases train > train_bak.sql;
