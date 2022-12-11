@@ -16,3 +16,4 @@
 * [**(Hust) Machine Learning Labs**(with lab codes and reports)](./machine_learning_lab_2022)
 * [**(Hust) Computer Composition Principles Course Design**(with lab codes and reports)](./computer_composition_principles_lab_2022)
 * [**(Hust) Computer Communications and Networks**(with lab codes and reports)](https://github.com/SleepyLGod/network-labs)
+* [**(Hust) Database Labs**(with lab codes on educoder and reports)](./database_lab_2022(MySQL))
