@@ -2,7 +2,7 @@
 
 > **Project ~~Highlights~~ records** ***&*** **`HUST-CS`experiments and course designs.** 😳😡🤢🤮😅😓👏😀
 >
-> 🙈 **For reference only, no plagiarism, although all got high scores.**
+> 🙈❗❗ **For reference only, no plagiarism, although all got high scores.**
 
 * [**PC GUI For Challenge Cup Competition**](./focus_climer)
 * [**Sudoku Game**（HUST DS course design with report）](./sudoku_game_2021)
