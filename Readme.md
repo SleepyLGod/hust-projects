@@ -1,8 +1,8 @@
-## **My Homework & Some Little Projects**           ([**👉简体中文版本**](./Readme_ch.md))
+## **My Homework & Some Little Projects**           ([**👉简体中文**](./Readme_ch.md))
 
-> **Project ~~Highlights~~ records** ***&*** **`HUST-CS`experiments and course designs.** 😳😡🤢🤮😅😓👏😀
+> **Project ~~Highlights~~ records** ***&*** **`HUST-CS`experiments and course designs.**
 >
-> 🙈❗❗ **For reference only, no plagiarism, although all got high scores.**
+> ❗❗ **For reference only; no plagiarism, although all got high scores.**
 
 * [**PC GUI For Challenge Cup Competition**](./focus_climer)
 * [**Sudoku Game**（HUST DS course design with report）](./sudoku_game_2021)
